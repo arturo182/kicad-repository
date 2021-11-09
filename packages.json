@@ -19,6 +19,7 @@
             "type": "library",
             "versions": [
                 {
+                    "version": "1.0",
                     "download_url": "https://github.com/arturo182/kicad-library/archive/refs/heads/master.zip"
                 }
             ]
