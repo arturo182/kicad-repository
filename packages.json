@@ -1,0 +1,25 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "author": {
+                "contact": { },
+                "name": "arturo182"
+            },
+            "description": "Libraries",
+            "identifier": "com.github.arturo182.kicad-library",
+            "maintainer": {
+                "contact": { },
+                "name": "arturo182"
+            },
+            "name": "Libraries",
+            "resources": { },
+            "type": "library",
+            "versions": [
+                {
+                    "download_url": "https://github.com/arturo182/kicad-library/archive/refs/heads/master.zip"
+                }
+            ]
+        }
+    ]
+}
