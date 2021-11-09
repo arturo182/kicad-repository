@@ -6,9 +6,9 @@
     },
     "name": "arturo182's repository",
     "packages": {
-        "url": "https://raw.githubusercontent.com/arturo182/kicad-repository/main/packages.json"
+        "url": "https://github.com/arturo182/kicad-repository/raw/main/packages.json"
     },
     "resources": {
-        "url": "https://raw.githubusercontent.com/arturo182/kicad-repository/main/resources.zip"
+        "url": "https://github.com/arturo182/kicad-repository/raw/main/resources.zip"
     }
 }
