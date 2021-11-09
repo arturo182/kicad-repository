@@ -1,1 +1,14 @@
-{}
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "contact": { },
+        "name": "arturo182"
+    },
+    "name": "arturo182's repository",
+    "packages": {
+        "url": "https://raw.githubusercontent.com/arturo182/kicad-repository/main/packages.json"
+    },
+    "resources": {
+        "url": "https://raw.githubusercontent.com/arturo182/kicad-repository/main/resources.zip"
+    }
+}
