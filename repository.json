@@ -6,9 +6,11 @@
     },
     "name": "arturo182's repository",
     "packages": {
+        "update_timestamp": 1636494071,
         "url": "https://github.com/arturo182/kicad-repository/raw/main/packages.json"
     },
     "resources": {
+        "update_timestamp": 1636494071,
         "url": "https://github.com/arturo182/kicad-repository/raw/main/resources.zip"
     }
 }
