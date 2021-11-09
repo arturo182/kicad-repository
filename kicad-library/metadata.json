@@ -1,1 +1,26 @@
-{}
+{
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "author": {
+                "contact": { },
+                "name": "arturo182"
+            },
+            "description": "Libraries",
+            "description_full": "Libraries",
+            "identifier": "com.github.arturo182.kicad-library",
+            "license": "open-source",
+            "maintainer": {
+                "contact": { },
+                "name": "arturo182"
+            },
+            "name": "Libraries",
+            "resources": { },
+            "type": "library",
+            "versions": [
+                {
+                    "download_url": "https://github.com/arturo182/kicad-repository/raw/main/kicad-library/com.github.arturo182.kicad-library.zip",
+                    "kicad_version": "5.99",
+                    "status": "development",
+                    "version": "1.0"
+                }
+            ]
+        }
