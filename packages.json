@@ -9,6 +9,7 @@
             "description": "Libraries",
             "description_full": "Libraries",
             "identifier": "com.github.arturo182.kicad-library",
+            "license": "open-source",
             "maintainer": {
                 "contact": { },
                 "name": "arturo182"
